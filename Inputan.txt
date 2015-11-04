@@ -1,0 +1,17 @@
+begin 
+	begin{ner}
+		if ( a < b ) then
+			begin
+				a = ( c + b )
+			end
+		else
+			begin
+				input ( d )
+				c = ( d - 9 )
+				if ( c <= a ) then
+					begin
+						output ( z )
+					end
+			end{less love}
+	end
+end.
